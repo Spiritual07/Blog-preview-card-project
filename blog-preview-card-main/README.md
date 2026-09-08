@@ -26,7 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Challenge: [Frontend Mentor Blog Preview Card](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS)
+- https://spiritualtechblog-preview.onrender.com/
+- https://github.com/Spiritual07/Blog-preview-card-project.git
 
 ## My Process
 
