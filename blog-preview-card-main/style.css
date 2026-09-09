@@ -23,14 +23,14 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  height: 100vh;
+  min-height: 100vh;
   gap: 16px;
   font-size: 16px;
 }
 
 .card {
   background-color: hsl(0, 0%, 100%);
-  width: 320px;
+  width: min(100%, 320px);
   border-radius: 10px;
   box-shadow: 8px 8px 0 hsl(0, 0%, 7%);
   display: flex;
